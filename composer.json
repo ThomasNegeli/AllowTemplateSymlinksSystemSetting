@@ -1,0 +1,15 @@
+{
+    "name": "cyberhouse/allowtemplatesymlinkssystemsetting",
+    "license": "OSL-3.0",
+    "type": "magento-module",
+    "description": "Reactivate system setting to allow symlinks for templates.",
+    "require": {
+        "magento-hackathon/magento-composer-installer": "*"
+    },
+    "authors":[
+        {
+            "name":"Thomas Negeli",
+            "email":"Thomas.Negeli@cyberhouse.at"
+        }
+    ]
+}

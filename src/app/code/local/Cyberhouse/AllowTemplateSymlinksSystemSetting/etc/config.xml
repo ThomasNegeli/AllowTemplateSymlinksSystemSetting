@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<config>
+    <modules>
+        <Cyberhouse_AllowTemplateSymlinksSystemSetting>
+            <version>1.0.0</version>
+        </Cyberhouse_AllowTemplateSymlinksSystemSetting>
+    </modules>
+    <global>
+        <helpers>
+            <cyberhouse_allowtemplatesymlinkssystemsetting>
+                <class>Cyberhouse_AllowTemplateSymlinksSystemSetting_Helper</class>
+            </cyberhouse_allowtemplatesymlinkssystemsetting>
+        </helpers>
+    </global>
+</config>
